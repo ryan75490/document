@@ -1,0 +1,33 @@
+Terraform AWS project
+Dockerized Python application
+Kubernetes deployment on Minikube or Kind
+GitHub Actions CI/CD pipeline
+
+Multi-Agent Job Search Assistant
+
+LangGraph
+OpenAI API
+ChromaDB
+Streamlit
+
+
+AWS Bedrock RAG Chatbot
+
+Bedrock
+Titan Embeddings
+OpenSearch Vector DB
+Knowledge Base
+Terraform deployment
+
+1. two- tier web app with dockerr and Jenkins
+
+frontend- flask app
+database-  MySQL
+
+2. three-tier web app with k8s.
+
+3. cloud infra. with terraform
+
+4. deploying a Prometheus observability stack (Grafana)
+
+5. ai-assisted devops.
